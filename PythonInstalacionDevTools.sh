@@ -19,6 +19,6 @@ echo "La instalació de python-devel, ofrece el siguiente resultado: $pydevel_in
 # Herramientas de desarrollo para construir módulos de Python
 grp_dvtools="yum groupinstall 'development tools'"
 $grp_dvtools
-echo "La instalació de development tools, ofrece el siguiente resultado: $grp_dvtools "
+echo "La instalación de development tools, ofrece el siguiente resultado: $grp_dvtools "
 
-source PythonInstalacionModules.sh
+
